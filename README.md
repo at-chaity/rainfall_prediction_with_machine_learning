@@ -32,7 +32,7 @@ This mini project uses historical Australian weather data to predict whether it 
 - `pandas`, `matplotlib`, `seaborn`, `scikit-learn`
 
 ## 📁 Files Included
-- `Rainfall_Prediction.ipynb` — Jupyter notebook with all code, plots, and output
+- `rainfall_prediction.ipynb` — Jupyter notebook with all code, plots, and output
 - `README.md` — This file
 
 ---
